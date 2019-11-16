@@ -1,2 +1,2 @@
 # go-library-template
-Go Library Template
+A Go Library Template
